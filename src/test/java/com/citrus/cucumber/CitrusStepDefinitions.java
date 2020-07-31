@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package todo;
+package com.citrus.cucumber;
 
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
@@ -35,7 +35,7 @@ import static com.consol.citrus.http.actions.HttpActionBuilder.http;
 /**
  * @author Christoph Deppisch
  */
-public class TodoSteps {
+public class CitrusStepDefinitions {
 
     @CitrusResource
     private TestCaseRunner runner;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package todo;
+package com.citrus.cucumber;
 
 import com.consol.citrus.dsl.endpoint.CitrusEndpoints;
 import com.consol.citrus.http.client.HttpClient;

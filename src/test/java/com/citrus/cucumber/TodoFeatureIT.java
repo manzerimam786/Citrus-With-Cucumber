@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package todo;
+package com.citrus.cucumber;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
